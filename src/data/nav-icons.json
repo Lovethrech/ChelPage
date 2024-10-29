@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "icon":"<i class='bx bxl-dribbble' id='nav-active'></i>"
+    },
+    {
+        "id":"2",
+        "icon":"<i class='bx bxl-instagram' id='nav-active'></i>"
+    },
+    {
+        "id":"3",
+        "icon":"<i class='bx bxl-whatsapp' id='nav-active'></i>"
+    },
+    {
+        "id":"4",
+        "icon":"<i class='bx bxl-linkedin' id='nav-active'></i>"
+    }
+]
