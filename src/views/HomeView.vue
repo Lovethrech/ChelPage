@@ -2,7 +2,7 @@
 import Header from "@/components/Header.vue";
 import HomeHero from '@/components/home/HomeHero.vue';
 import NavTextCtn from "@/components/NavTextCtn.vue";
-import AboutCtn from '@/components/home/AboutCtn.vue';
+import HomeAboutCtn from '@/components/home/HomeAboutCtn.vue';
 </script>
 
 <template>
@@ -13,7 +13,7 @@ import AboutCtn from '@/components/home/AboutCtn.vue';
             <NavTextCtn></NavTextCtn>
         </header>
         <div class="content-ctn">
-            <AboutCtn></AboutCtn>
+            <HomeAboutCtn></HomeAboutCtn>
         </div>
     </div>
 </template>
