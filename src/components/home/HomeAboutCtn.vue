@@ -1,8 +1,8 @@
 <script setup>
-import AboutCtnText from '@/components/home/AboutCtnText.vue';
+import HomeAboutCtnText from '@/components/home/HomeAboutCtnText.vue';
 </script>
 <template>
     <div class="about-ctn-main-ct">
-        <AboutCtnText></AboutCtnText>
+        <HomeAboutCtnText></HomeAboutCtnText>
     </div>
 </template>
