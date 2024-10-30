@@ -52,13 +52,13 @@ const defaultCtn=()=>{
                 </p>    
             </div>
         </div>
-        <!-- <div class="about-ctn-text-hdn-ctn"  v-on:mouseleave="defaultCtn">
+        <div class="about-ctn-text-hdn-ctn"  v-on:mouseleave="defaultCtn">
             <div class="ctn">
                 <h2 class="title">Rate me</h2>
                 <p class="content">
                     I'm a <b class="bold-about">selectively skilled</b>  frontend developer with strong focus on producing high-quality & pixel-perfect experience.
                 </p>  
             </div>
-        </div> -->
+        </div>
     </div>
 </template>
